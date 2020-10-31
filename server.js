@@ -10,6 +10,7 @@ const profile = require("./controllers/profile");
 const image = require("./controllers/image");
 const home = require("./controllers/home");
 
+//OG setup for connection
 // const db = knex({
 //   client: "pg",
 //   connection: {
